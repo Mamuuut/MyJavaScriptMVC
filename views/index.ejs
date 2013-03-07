@@ -2,10 +2,12 @@
 <html>
   <head>
     <title><%= title %></title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    <ul id='todos'></ul>
+    <input id='editor'/>
+    <script type='text/javascript'
+            src='steal/steal.js?todos/todos.js'>
+    </script>
   </body>
 </html>

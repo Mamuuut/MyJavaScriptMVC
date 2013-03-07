@@ -11,3 +11,6 @@
 [submodule "public/jquery"]
 	path = public/jquery
 	url = git@github.com:Mamuuut/jquerymx.git
+[submodule "public/can"]
+	path = public/can
+	url = git@github.com:Mamuuut/canjs.git

@@ -1,0 +1,13 @@
+
+[submodule "public/steal"]
+	path = public/steal
+	url = git@github.com:Mamuuut/steal.git
+[submodule "public/documentjs"]
+	path = public/documentjs
+	url = git@github.com:Mamuuut/documentjs.git
+[submodule "public/funcunit"]
+	path = public/funcunit
+	url = git@github.com:Mamuuut/funcunit.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git@github.com:Mamuuut/jquerymx.git
